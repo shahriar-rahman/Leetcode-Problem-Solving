@@ -1,5 +1,6 @@
+===========================================================================
 # ◘ Leetcode Problem Solving
-A Repository that stores the submission of my solutions in different online judges from LeetCode. Note this repo will see more updates and expansion on a regular basis.
+A Repository that stores the submission of my solutions in different online judges from LeetCode using Python3 Language. Note this repo will see more updates and expansion on a regular basis.
 
 </br></br>
 
@@ -19,3 +20,4 @@ A Repository that stores the submission of my solutions in different online judg
 ![alt text](https://github.com/shahriar-rahman/Leetcode-Problem-Solving/blob/main/img/leetcode_website.JPG)
 
 </br>
+===========================================================================
