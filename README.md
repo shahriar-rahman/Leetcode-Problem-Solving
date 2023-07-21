@@ -18,6 +18,7 @@ A Repository that stores the submission of my solutions in different online judg
 | 5 | Longest Palindromic Substring | [Python3](https://github.com/shahriar-rahman/Leetcode-Problem-Solving/blob/main/src/5_Longest_Palindromic_Substring.py) |
 | 6 | Zigzag Conversion | [Python3](https://github.com/shahriar-rahman/Leetcode-Problem-Solving/blob/main/src/6_Zigzag_Conversion.py) |
 | 7 | Reverse Integer | [Python3](https://github.com/shahriar-rahman/Leetcode-Problem-Solving/blob/main/src/7_Reverse_Integer.py) |
+| 8 | String to Integer (atoi) | [Python3](https://github.com/shahriar-rahman/Leetcode-Problem-Solving/blob/main/src/8_String_to_Integer_(atoi).py) |
 
 </br></br>
 
