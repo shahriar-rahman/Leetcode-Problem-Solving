@@ -9,10 +9,11 @@ A Repository that stores the submission of my solutions in different online judg
 </br></br>
 
 ## ◘ Table of Contents
-| Index | Title | Link |
+| Index | Title | Solution |
 |--|--|--|
-| 1 | Two Sum | [Solution](https://github.com/shahriar-rahman/Leetcode-Problem-Solving/blob/main/src/1_Two_Sum.py) |
-| 2 | Add Two Numbers | [Solution](https://github.com/shahriar-rahman/Leetcode-Problem-Solving/blob/main/src/2_Add_Two_Numbers.py) |
+| 1 | Two Sum | [Python](https://github.com/shahriar-rahman/Leetcode-Problem-Solving/blob/main/src/1_Two_Sum.py) |
+| 2 | Add Two Numbers | [Python](https://github.com/shahriar-rahman/Leetcode-Problem-Solving/blob/main/src/2_Add_Two_Numbers.py) |
+| 3 | Longest Substring Without Repeating Characters | [Python](https://github.com/shahriar-rahman/Leetcode-Problem-Solving/blob/main/src/3_Longest_Substring_Without_Repeating_Characters.py)
 
 </br></br>
 
