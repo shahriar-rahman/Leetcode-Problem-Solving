@@ -19,6 +19,8 @@ A Repository that stores the submission of my solutions in different online judg
 | 6 | Zigzag Conversion | [Python3](https://github.com/shahriar-rahman/Leetcode-Problem-Solving/blob/main/src/6_Zigzag_Conversion.py) |
 | 7 | Reverse Integer | [Python3](https://github.com/shahriar-rahman/Leetcode-Problem-Solving/blob/main/src/7_Reverse_Integer.py) |
 | 8 | String to Integer (atoi) | [Python3](https://github.com/shahriar-rahman/Leetcode-Problem-Solving/blob/main/src/8_String_to_Integer_(atoi).py) |
+| 9 | Palindrome Number | [Python3](https://github.com/shahriar-rahman/Leetcode-Problem-Solving/blob/main/src/9_Palindrome_Number.py) |
+| 10 | Regular Expression Matching |  [Python3](https://github.com/shahriar-rahman/Leetcode-Problem-Solving/blob/main/src/10_Regular_Expression_Matching.py) |
 
 </br></br>
 
